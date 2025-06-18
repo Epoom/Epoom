@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Egert-Yako Poom 
 
 **Passionate Software Developer** | **Student @ [kood/Jõhvi](https://kood.tech)**  
-Always exploring new ways to solve real-world problems through code through creative solutions.  
+Always exploring new ways to solve real-world problems with code through creative solutions.  
 
 ---
 
