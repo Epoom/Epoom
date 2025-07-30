@@ -39,9 +39,9 @@ Always exploring new ways to solve real-world problems with code through creativ
 
 ---
 
-### 🔥 **Featured Projects**  
+### 🔥 **Featured Projects** 
+- [**Match-Me**](https://github.com/Epoom/match-me) - Match Me is a full-stack web application designed specifically for coders, developers, and tech enthusiasts to find teammates, collaborators, and like-minded individuals to work on projects together.
 - [**Racetrack**](https://github.com/Epoom/racetrack) - A real-time race control system made with javascript and html.  
-- [**Itinerary-prettifier**](https://github.com/Epoom/itinerary-prettifier) - Tool that takes flight itinerearies, then formats and saves them to be easier to read.
 - [**kmdb-movies-api**](https://github.com/Epoom/kmdb-movies-api) - RESTful web service for managing a movie database. The API enables users to perform CRUD operations for movies, genres, and actors, with multiple advanced features.  
 
 ---
