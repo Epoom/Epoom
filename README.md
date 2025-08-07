@@ -47,7 +47,7 @@ Always exploring new ways to solve real-world problems with code through creativ
 ---
 
 ### 🌱 **Currently working on**  
-- Match-Me Web/Tinder: Full-Stack recommendation app, which matches people based on their interests, preferences and characteristics. 
+- 
 
 ---
 
